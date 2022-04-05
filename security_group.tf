@@ -1,5 +1,5 @@
 resource "aws_security_group" "jenkins" {
-  name        = "allow_tls"
+  name        = "jenkins"
   description = "Allow TLS inbound traffic"
   
 
