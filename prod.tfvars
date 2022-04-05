@@ -4,7 +4,7 @@ region        = "us-west-2"
 ami_id        = "ami-00ee4df451840fa9d"
 s3_bucket = "my-bucket-jenkinsclass2"
 s3_folder_project = "terraform_vpc"
-s3_folder_region = "us-east-1"
+s3_folder_region = "us-west-2"
 s3_folder_type = "class"
 s3_tfstate_file = "infrastructure.tfstate"
 
